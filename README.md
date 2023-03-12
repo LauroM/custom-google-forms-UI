@@ -73,5 +73,5 @@ Testando o formulário customizado.
     <em>Registro salvo</em>
 </p>
 
-Portanto é simples e possível utilizar a estrutura que o Google Forms te oferece.
+
 Poderia colocar validadores de email e telefone tanto no frontend quanto no Google forms, mas o propósito aqui é apenas testar a possibilidade de usar o Google Forms customizado.
