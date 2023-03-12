@@ -66,7 +66,7 @@ Testando o formulário customizado.
     <br><br><br>
     <img src="/assets/step6b.png" title="step6b" style="display: block; margin-left: auto; margin-right: auto; width: 70%;">
     <br>
-    <em>Página de confirmação</em>
+    <em>Página de confirmação após submter formulário</em>
     <br><br><br>
     <img src="/assets/step6c.png" title="step6c" style="display: block; margin-left: auto; margin-right: auto; width: 70%;">
     <br>
