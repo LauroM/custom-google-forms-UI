@@ -11,7 +11,7 @@ Formulário basico no index.html com dois inputs(email e telefone) e um botão d
 </p>
 
 ### Passo 1:
-Acessar a conta do google e propucar por Formulários.
+Acessar a conta do google e procucar por Formulários.
 
 ![alt text](/assets/step1.png)
 
@@ -37,14 +37,14 @@ O link gerado é algo mais ou menos assim:
 https://docs.google.com/forms/d/e/1FAIpQLScOZXt985Ly-pGu9EO67klsahg43498ow/viewform?usp=pp_url&entry.1936217447=teste@gmail.com&entry.678287860=31999999999
 ```
 
-Agora é necessário modificar este link. Perceba que no final contém as duas respostas do passo anterior, teste@gmail.com e 31999999999.
+Agora é necessário modificar este link. Perceba que no final do link contém as duas respostas do passo anterior, teste@gmail.com e 31999999999.
 
 Estrutura:
 - Formulário: https://docs.google.com/forms/d/e/1FAIpQLScOZXt985Ly-pGu9EO67klsahg43498ow/viewform
 - Campo email: entry.1936217447
 - Campo telefone: entry.678287860
 
-No arquivo index.html o entry.1936217447 será adicionado no input de email e o entry.678287860 ao input de telefone. Além desses campos também será adicionado a referência do formulário trocando viewform por formResponse.
+No arquivo index.html o entry.1936217447 será adicionado no input de email e o entry.678287860 no input de telefone. Também será adicionado a referência do formulário trocando viewform por formResponse.
 
 ```
 Linha 13:  <form class="form" action="https://docs.google.com/forms/d/e/1FAIpQLScOZXt985Ly-pGu9EO67klsahg43498ow/formResponse">
@@ -74,4 +74,4 @@ Testando o formulário customizado.
 </p>
 
 
-Poderia colocar validadores de email e telefone tanto no frontend quanto no Google forms, mas o propósito aqui é apenas testar a possibilidade de usar o Google Forms customizado.
+Poderia validação de email e telefone tanto no frontend quanto no Google forms, mas o propósito aqui é apenas testar a possibilidade de usar o Google Forms customizado.
