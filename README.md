@@ -6,9 +6,9 @@ Teste customizando interface com Google Forms.
 Para o teste, foi criado um formulário apenas para recolher telefone e email do usuário.
 Formulário basico no index.html com dois inputs(email e telefone) e um botão de subimit.
 
-<img src="/assets/forms.png" title="forms" style="display: block; margin-left: auto; margin-right: auto; width: 50%;">
-
-![alt text](/assets/forms.png)
+<p align="center">
+    <img src="/assets/forms.png" title="forms" style="display: block; margin-left: auto; margin-right: auto; width: 50%;">
+</p>
 
 ### Passo 1:
 Acessar a conta do google e propucar por Formulários.
@@ -62,9 +62,3 @@ Testando o customizado customizado.
 <img src="/assets/step6a.png" title="step6a" style="display: block; margin-left: auto; margin-right: auto; width: 50%;">
 <img src="/assets/step6b.png" title="step6b" style="display: block; margin-left: auto; margin-right: auto; width: 50%;">
 <img src="/assets/step6c.png" title="step6c" style="display: block; margin-left: auto; margin-right: auto; width: 50%;">
-
-
-==================================
-![alt text](/assets/step6a.png)
-![alt text](/assets/step6b.png)
-![alt text](/assets/step6c.png)
