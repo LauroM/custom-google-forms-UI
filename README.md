@@ -33,22 +33,11 @@ Preencha o formulário e então clique em "Gerar link". Em seguida copie o link 
 ### Passo 5
 O link gerado é algo mais ou menos assim:
 
-```
-https://docs.google.com/forms/d/e/1FAIpQLScOZXt985Ly-pGu9EO67klsahg43498ow/viewform?usp=pp_url&entry.1936217447=teste@gmail.com&entry.678287860=31999999999
-```
-
-Perceba que no final do link aparece as duas respostas do passo anterior, teste@gmail.com e 31999999999. Agora é necessário modificar a URL. 
-
-Estrutura do link:
 <p align="center">
-    <img src="/assets/estruturaurl.png" title="Estrutura do link" style="display: block; margin-left: auto; margin-right: auto; width: 70%;">
+    <img src="/assets/estruturaurl.png" title="Estrutura do link" style="display: block; margin-left: auto; margin-right: auto; width: 100%;">
     <br>
     <em>Estrutura do link</em>
 </p>
-
-- Formulário: https://docs.google.com/forms/d/e/1FAIpQLScOZXt985Ly-pGu9EO67klsahg43498ow/viewform
-- Campo email: entry.1936217447
-- Campo telefone: entry.678287860
 
 No arquivo index.html o entry.1936217447 será adicionado no input de email e o entry.678287860 no input de telefone. Também será adicionado a referência do formulário trocando viewform por formResponse para obtermos a URL do POST.
 
