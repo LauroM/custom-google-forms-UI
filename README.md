@@ -41,7 +41,7 @@ Perceba que no final do link aparece as duas respostas do passo anterior, teste@
 
 Estrutura do link:
 <p align="center">
-    <img src="/assets/estruturaurl.png.png" title="Estrutura do link" style="display: block; margin-left: auto; margin-right: auto; width: 70%;">
+    <img src="/assets/estruturaurl.png" title="Estrutura do link" style="display: block; margin-left: auto; margin-right: auto; width: 70%;">
     <br>
     <em>Estrutura do link</em>
 </p>
