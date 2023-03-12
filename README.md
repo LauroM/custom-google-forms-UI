@@ -40,6 +40,12 @@ https://docs.google.com/forms/d/e/1FAIpQLScOZXt985Ly-pGu9EO67klsahg43498ow/viewf
 Perceba que no final do link aparece as duas respostas do passo anterior, teste@gmail.com e 31999999999. Agora é necessário modificar a URL. 
 
 Estrutura do link:
+<p align="center">
+    <img src="/assets/estruturaurl.png.png" title="Estrutura do link" style="display: block; margin-left: auto; margin-right: auto; width: 70%;">
+    <br>
+    <em>Estrutura do link</em>
+</p>
+
 - Formulário: https://docs.google.com/forms/d/e/1FAIpQLScOZXt985Ly-pGu9EO67klsahg43498ow/viewform
 - Campo email: entry.1936217447
 - Campo telefone: entry.678287860
