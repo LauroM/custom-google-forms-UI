@@ -31,13 +31,13 @@ Preencha o formulário e então clique em "Gerar link". Em seguida copie o link 
 ![alt text](/assets/step4.png)
 
 ### Passo 5
-O linke gerado é algo mais ou menos assim:
+O link gerado é algo mais ou menos assim:
 
 ```
 https://docs.google.com/forms/d/e/1FAIpQLScOZXt985Ly-pGu9EO67klsahg43498ow/viewform?usp=pp_url&entry.1936217447=teste@gmail.com&entry.678287860=31999999999
 ```
 
-Agora é necessário modificar este link. Perceba que no final do link contém as duas respostas dados no passo anterior, teste@gmail.com e 31999999999.
+Agora é necessário modificar este link. Perceba que no final contém as duas respostas do passo anterior, teste@gmail.com e 31999999999.
 
 Estrutura:
 - Formulário: https://docs.google.com/forms/d/e/1FAIpQLScOZXt985Ly-pGu9EO67klsahg43498ow/viewform
@@ -72,3 +72,6 @@ Testando o formulário customizado.
     <br>
     <em>Registro salvo</em>
 </p>
+
+Portanto é simples e possível utilizar a estrutura que o Google Forms te oferece.
+Poderia colocar validadores de email e telefone tanto no frontend quanto no Google forms, mas o propósito aqui é apenas testar a possibilidade de usar o Google Forms customizado.
