@@ -20,5 +20,4 @@ Após criar o formulário, na barra superior nos 3 pontinhos escolha a opção "
 ### Passo 4
 Preencha o formulário e então clique em "Gerar link". Em seguida copie o link que foi gerado.
 
-![alt text](/assets/step4a.png)
-![alt text](/assets/step4b.png)
+![alt text](/assets/step4.png)
