@@ -42,9 +42,11 @@ Estrutura:
 - Campo email: entry.1936217447
 - Campo telefone: entry.678287860
 
-No arquivo index.html o entry.1936217447 será add no input de email e o entry.678287860 ao input de telefone
+No arquivo index.html o entry.1936217447 será adicionado no input de email e o entry.678287860 ao input de telefone. Além desses campos também será adicionado a referência do formulário trocando viewform por formResponse.
 
 ```
-Linha 18: <input id="email" class="input" type="text" placeholder=" " name="entry.1936217447">
-Linha 23: <input id="phone" class="input" type="text" placeholder=" " name="entry.678287860">
+Linha 13:  <form class="form" action="https://docs.google.com/forms/d/e/1FAIpQLScOZXt985Ly-pGu9EO67klsahg43498ow/formResponse">
+Linha 17: <input id="email" class="input" type="text" placeholder=" " name="entry.1936217447">
+
+Linha 22: <input id="phone" class="input" type="text" placeholder=" " name="entry.678287860">
 ```
