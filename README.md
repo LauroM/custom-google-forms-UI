@@ -44,8 +44,7 @@ Estrutura do link:
 - Campo email: entry.1936217447
 - Campo telefone: entry.678287860
 
-Agora temos URL do POST, nome dos campos e podemos personalizar.
-No arquivo index.html o entry.1936217447 será adicionado no input de email e o entry.678287860 no input de telefone. Também será adicionado a referência do formulário trocando viewform por formResponse.
+No arquivo index.html o entry.1936217447 será adicionado no input de email e o entry.678287860 no input de telefone. Também será adicionado a referência do formulário trocando viewform por formResponse para obtermos a URL do POST.
 
 ```
 Linha 13:  <form class="form" action="https://docs.google.com/forms/d/e/1FAIpQLScOZXt985Ly-pGu9EO67klsahg43498ow/formResponse">
