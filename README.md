@@ -6,7 +6,7 @@ Teste customizando interface com Google Forms.
 Para o teste, foi criado um formulário apenas para recolher telefone e email do usuário.
 Formulário basico no index.html com dois inputs(email e telefone) e um botão de subimit.
 
-<img src="/assets/forms.png" width="50" height="60" title="forms">
+<img src="/assets/forms.png" title="forms" style="display: block; margin-left: auto; margin-right: auto; width: 50%;">
 
 ![alt text](/assets/forms.png)
 
