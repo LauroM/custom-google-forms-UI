@@ -1,10 +1,14 @@
 # custom-google-forms-UI
 
-Teste customizando Google Forms na interface frontend.
+Teste customizando interface com Google Forms.
 
 ### Passo 0:
 Para o teste, foi criado um formulário apenas para recolher telefone e email do usuário.
 Formulário basico no index.html com dois inputs(email e telefone) e um botão de subimit.
+
+<div style="width:50px; height:50px;">
+    ![alt text](/assets/forms.png?raw=true)
+</div>
 
 ![alt text](/assets/forms.png)
 
