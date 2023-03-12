@@ -3,8 +3,8 @@
 Teste interface customizada + Google Forms.
 
 ### Passo 0:
-Para o teste, foi criado um formulário apenas para recolher telefone e email do usuário.
-Formulário basico no index.html com dois inputs(email e telefone) e um botão de subimit.
+Para o teste, foi criado um formulário para recolher telefone e email do usuário.
+O formulário do index.html contém dois inputs(email e telefone) e um botão de subimit.
 
 <p align="center">
     <img src="/assets/forms.png" title="forms" style="display: block; margin-left: auto; margin-right: auto; width: 70%;">
@@ -37,7 +37,7 @@ O link gerado é algo mais ou menos assim:
 https://docs.google.com/forms/d/e/1FAIpQLScOZXt985Ly-pGu9EO67klsahg43498ow/viewform?usp=pp_url&entry.1936217447=teste@gmail.com&entry.678287860=31999999999
 ```
 
-Agora é necessário modificar este link. Perceba que no final do link contém as duas respostas do passo anterior, teste@gmail.com e 31999999999.
+Perceba que no final do link aparece as duas respostas do passo anterior, teste@gmail.com e 31999999999. Agora é necessário modificar a URL. 
 
 Estrutura do link:
 - Formulário: https://docs.google.com/forms/d/e/1FAIpQLScOZXt985Ly-pGu9EO67klsahg43498ow/viewform
