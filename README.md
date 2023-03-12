@@ -4,7 +4,7 @@ Teste customizando Google Forms na interface frontend.
 
 ### Passo 0:
 Para o teste, foi criado um formulário apenas para recolher telefone e email do usuário.
-Formulário basico no index.html com dois inputs(para email e telefone) e um botão de subimit.
+Formulário basico no index.html com dois inputs(email e telefone) e um botão de subimit.
 
 ![alt text](/assets/forms.png)
 
@@ -31,4 +31,4 @@ Preencha o formulário e então clique em "Gerar link". Em seguida copie o link 
 ### Passo 5
 O linke gerado é algo mais ou menos como este:
 
-https://docs.google.com/forms/d/e/1FAIpQLScOZXtwJWAO8fUsxvuxh985Ly-pGu9EOnCCeRVxK7ySi998ow/viewform?usp=pp_url&entry.1936217474=teste@gmail.com&entry.678287806=31999999999
+- https://docs.google.com/forms/d/e/1FAIpQLScOZXt985Ly-pGu9EO67klsahg43498ow/viewform?usp=pp_url&entry.1936217474=teste@gmail.com&entry.678287806=31999999999
