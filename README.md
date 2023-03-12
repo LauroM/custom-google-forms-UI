@@ -60,7 +60,7 @@ Feito essa integração com o Google Forms, já pode testar se o formulário cus
 Testando o formulário customizado.
 
 <p align="center">
-<img src="/assets/step6a.png" title="step6a" style="display: block; margin-left: auto; margin-right: auto; width: 70%;"><br><em>Preenchendo os campos</em>
-<img src="/assets/step6b.png" title="step6b" style="display: block; margin-left: auto; margin-right: auto; width: 70%;"><br><em>Confirmação de que foi submetido com sucesso</em>
+<img src="/assets/step6a.png" title="step6a" style="display: block; margin-left: auto; margin-right: auto; width: 70%;"><br><em>Preenchendo os campos</em><br>
+<img src="/assets/step6b.png" title="step6b" style="display: block; margin-left: auto; margin-right: auto; width: 70%;"><br><em>Confirmação de que foi submetido com sucesso</em><br>
 <img src="/assets/step6c.png" title="step6c" style="display: block; margin-left: auto; margin-right: auto; width: 70%;"><br><em>Registro salvo</em>
 </p>
