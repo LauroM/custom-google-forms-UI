@@ -11,7 +11,7 @@ Formulário basico no index.html com dois inputs(email e telefone) e um botão d
 </p>
 
 ### Passo 1:
-Acessar a conta do google e procucar por Formulários.
+Acessar Google Forms: https://forms.google.com
 
 ![alt text](/assets/step1.png)
 
