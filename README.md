@@ -68,4 +68,4 @@ Feito essa integração com o Google Forms, já pode testar se o formulário cus
 </p>
 
 
-Poderia incluir validação de email e telefone tanto no frontend quanto no Google forms, mas o propósito aqui é apenas testar a possibilidade de usar o Google Forms customizado.
+Poderia incluir validação de email e telefone tanto no frontend quanto no Google forms, mas o propósito aqui é apenas testar a possibilidade de usar o Google Forms adaptado para o frontend.
