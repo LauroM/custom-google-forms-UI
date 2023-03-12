@@ -56,8 +56,7 @@ Linha 22: <input id="phone" class="input" type="text" placeholder=" " name="entr
 
 Feito essa integração com o Google Forms, já pode testar se o formulário customizado irá salvar os inputs.
 
-### Passo 6
-Testando o formulário customizado.
+### Teste
 
 <p align="center">
     <img src="/assets/step6a.png" title="step6a" style="display: block; margin-left: auto; margin-right: auto; width: 70%;">
