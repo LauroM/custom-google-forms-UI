@@ -1,6 +1,6 @@
 # custom-google-forms-UI
 
-Teste customizando interface com Google Forms.
+Teste interface customizada + Google Forms.
 
 ### Passo 0:
 Para o teste, foi criado um formulário apenas para recolher telefone e email do usuário.
@@ -57,10 +57,10 @@ Linha 22: <input id="phone" class="input" type="text" placeholder=" " name="entr
 Feito essa integração com o Google Forms, já pode testar se o formulário customizado irá capturar os inputs.
 
 ### Passo 6
-Testando o customizado customizado.
+Testando o formulário customizado.
 
 <p align="center">
-<img src="/assets/step6a.png" title="step6a" style="display: block; margin-left: auto; margin-right: auto; width: 70%;"><br>
-<img src="/assets/step6b.png" title="step6b" style="display: block; margin-left: auto; margin-right: auto; width: 70%;"><br>
-<img src="/assets/step6c.png" title="step6c" style="display: block; margin-left: auto; margin-right: auto; width: 70%;">
+<img src="/assets/step6a.png" title="step6a" style="display: block; margin-left: auto; margin-right: auto; width: 70%;"><br><em>Preenchendo os campos</em>
+<img src="/assets/step6b.png" title="step6b" style="display: block; margin-left: auto; margin-right: auto; width: 70%;"><br><em>Confirmação de que foi submetido com sucesso</em>
+<img src="/assets/step6c.png" title="step6c" style="display: block; margin-left: auto; margin-right: auto; width: 70%;"><br><em>Registro salvo</em>
 </p>
