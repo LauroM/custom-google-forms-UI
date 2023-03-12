@@ -52,8 +52,10 @@ Linha 17: <input id="email" class="input" type="text" placeholder=" " name="entr
 Linha 22: <input id="phone" class="input" type="text" placeholder=" " name="entry.678287860">
 ```
 
+Feito essa integração com o Google Forms, já pode testar se o formulário customizado irá capturar os inputs.
+
 ### Passo 6
-Testando a integração do forms customizado.
+Testando o customizado customizado.
 
 ![alt text](/assets/step6a.png)
 ![alt text](/assets/step6b.png)
