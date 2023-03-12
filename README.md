@@ -31,4 +31,11 @@ Preencha o formulário e então clique em "Gerar link". Em seguida copie o link 
 ### Passo 5
 O linke gerado é algo mais ou menos como este:
 
-- https://docs.google.com/forms/d/e/1FAIpQLScOZXt985Ly-pGu9EO67klsahg43498ow/viewform?usp=pp_url&entry.1936217474=teste@gmail.com&entry.678287806=31999999999
+- https://docs.google.com/forms/d/e/1FAIpQLScOZXt985Ly-pGu9EO67klsahg43498ow/viewform?usp=pp_url&entry.1936217447=teste@gmail.com&entry.678287860=31999999999
+
+Agora é necessário modificar este link. Perceba que no final do link contém as duas respostas dados no passo anterior, teste@gmail.com e 31999999999.
+
+Estrutura:
+- formulario: https://docs.google.com/forms/d/e/1FAIpQLScOZXt985Ly-pGu9EO67klsahg43498ow/viewform
+- Campo email: entry.1936217447
+- Campo telefone: entry.678287860
