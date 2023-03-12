@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="forms.css">
+        <script src="forms.js"></script>
+        <title>Teste Custom Google Forms</title>
+    </head>
+
+    <body>
+        <form class="form"
+            action="{link_gerado_do_forms}/formResponse">
+            <div class="title">Teste</div>
+            <div class="subtitle">Custom Google Forms UI</div>
+            <div class="input-container ic2">
+                <input id="email" class="input" type="text" placeholder=" " name="entry.{id_coluna}">
+                <div class="cut cut-short"></div>
+                <label for="email" class="placeholder">Email</label>
+            </div>
+            <div class="input-container ic2">
+                <input id="phone" class="input" type="text" placeholder=" " name="entry.{id_coluna}">
+                <div class="cut"></div>
+                <label for="phone" class="placeholder">Telefone</label>
+            </div>
+            <button type="submit" class="submit">submit</button>
+        </form>
+    </body>
+
+</html>
