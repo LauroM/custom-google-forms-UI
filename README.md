@@ -39,7 +39,7 @@ https://docs.google.com/forms/d/e/1FAIpQLScOZXt985Ly-pGu9EO67klsahg43498ow/viewf
 
 Agora é necessário modificar este link. Perceba que no final do link contém as duas respostas do passo anterior, teste@gmail.com e 31999999999.
 
-Estrutura:
+Estrutura do link:
 - Formulário: https://docs.google.com/forms/d/e/1FAIpQLScOZXt985Ly-pGu9EO67klsahg43498ow/viewform
 - Campo email: entry.1936217447
 - Campo telefone: entry.678287860
