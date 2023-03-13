@@ -1,6 +1,6 @@
 # custom-google-forms-UI
 
-Interface customizada + Google Forms. Para o teste, foi criado um formulário para recolher telefone e email do usuário.
+Interface customizada + Google Forms. Objetivo do teste é criar um formulário para recolher telefone e email do usuário.
 
 ### Passo 0:
 
@@ -40,7 +40,7 @@ Primeiro crie o arquivo index.html que será a interface do formulário contendo
 </html>
 ```
 
-Crie também um arquivo para dar uma embelezada na interface.
+Crie também um arquivo css para dar uma embelezada na interface.
 
 - forms.css
 ```
